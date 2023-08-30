@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm Eng. Brian Koech</h1>
 <h3>Deep Learning, Machine Learning, and AI Enthusiast. Pro-Laravel, Typescript, NodeJS, Nest JS, Flutter, Dart and Angular Software Engineer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bkiprono&label=Profile%20views&color=0e75b6&style=flat" alt="bkiprono" /> </p>
+<p>
+ <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=4&margin-w=25&margin-h=15" alt="bkiprono" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bkiprono" alt="bkiprono" /></a> </p>
-
+</p>
 <p align="left"> <a href="https://twitter.com/itsbackenddevke" target="blank"><img src="https://img.shields.io/twitter/follow/itsbackenddevke?logo=twitter&style=for-the-badge" alt="itsbackenddevke" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
