@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Eng. Brian Koech</h1>
-<h3>Deep Learning, Machine Learning, and AI Enthusiast. Pro-Laravel, Typescript, NodeJS, Nest JS and Angular Software Engineer.</h3>
+<h3>Deep Learning, Machine Learning, and AI Enthusiast. Pro-Laravel, Typescript, NodeJS, Nest JS, Flutter, Dart and Angular Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bkiprono&label=Profile%20views&color=0e75b6&style=flat" alt="bkiprono" /> </p>
 
