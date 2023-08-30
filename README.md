@@ -2,7 +2,7 @@
 <h3>Deep Learning, Machine Learning, and AI Enthusiast. Pro-Laravel, Typescript, NodeJS, Nest JS, Flutter, Dart and Angular Software Engineer.</h3>
 
 <p>
- <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=4&margin-w=25&margin-h=15" alt="bkiprono" />
+ <img src="https://github-profile-trophy.vercel.app/?username=bkiprono&column=4&margin-w=25&margin-h=15" alt="bkiprono" />
 
 </p>
 <p align="left"> <a href="https://twitter.com/itsbackenddevke" target="blank"><img src="https://img.shields.io/twitter/follow/itsbackenddevke?logo=twitter&style=for-the-badge" alt="itsbackenddevke" /></a> </p>
