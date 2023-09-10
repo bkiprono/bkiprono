@@ -8,7 +8,6 @@
 
 ![bkiprono's Stats](https://github-readme-stats.vercel.app/api?username=bkiprono&theme=merko&show_icons=true&hide_border=false&count_private=true)
 ![bkiprono's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bkiprono&theme=merko&hide_border=false)
-![bkiprono's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bkiprono&theme=merko&show_icons=true&hide_border=false&layout=compact)
 
 
 <h3 align="left">Languages and Tools:</h3>
