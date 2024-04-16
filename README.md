@@ -4,8 +4,6 @@
 ![bkiprono's Stats](https://github-readme-stats.vercel.app/api?username=bkiprono&theme=merko&show_icons=true&hide_border=false&count_private=true)
 ![bkiprono's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bkiprono&theme=merko&hide_border=false)
 
-<p align="left"> <a href="https://twitter.com/itsbackenddevke" target="blank"><img src="https://img.shields.io/twitter/follow/itsbackenddevke?logo=twitter&style=for-the-badge" alt="itsbackenddevke" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itsbackenddevke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsbackenddevke" height="30" width="40" /></a>
