@@ -1,10 +1,7 @@
 <h1>Hi 👋, I'm Eng. Brian Koech</h1>
 <h3>A passionate software engineer with a knack for turning lines of code into impactful solutions. As a seasoned developer, I thrive on the dynamic dance between problem-solving and creativity, constantly pushing the boundaries of what technology can achieve.</h3>
 
-<p>
- <img src="https://github-profile-trophy.vercel.app/?username=bkiprono&column=4&margin-w=25&margin-h=15" alt="bkiprono" />
 
-</p>
 
 ![bkiprono's Stats](https://github-readme-stats.vercel.app/api?username=bkiprono&theme=merko&show_icons=true&hide_border=false&count_private=true)
 ![bkiprono's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bkiprono&theme=merko&hide_border=false)
