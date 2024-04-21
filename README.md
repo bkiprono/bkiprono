@@ -16,13 +16,17 @@ With a blend of technical expertise, creative thinking, and a relentless drive f
     <td><b style="font-size:30px">Title 2</b></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td>
+     ![bkiprono's Stats](https://github-readme-stats.vercel.app/api?username=bkiprono&theme=shadow_blue&show_icons=true&hide_border=false&count_private=true)
+     </td>
+    <td>
+    ![bkiprono's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bkiprono&theme=shadow_blue&hide_border=false&count_private=true) 
+    </td>
  </tr>
 </table>
 
-![bkiprono's Stats](https://github-readme-stats.vercel.app/api?username=bkiprono&theme=shadow_blue&show_icons=true&hide_border=false&count_private=true)
-![bkiprono's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bkiprono&theme=shadow_blue&hide_border=false&count_private=true)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
