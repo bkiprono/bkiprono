@@ -3,7 +3,8 @@
 
 ![bkiprono's Stats](https://github-readme-stats.vercel.app/api?username=bkiprono&theme=merko&show_icons=true&hide_border=false&count_private=true)
 ![bkiprono's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bkiprono&theme=merko&hide_border=false)
-
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bkiprono&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itsbackenddevke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsbackenddevke" height="30" width="40" /></a>
