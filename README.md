@@ -17,10 +17,14 @@ With a blend of technical expertise, creative thinking, and a relentless drive f
  </tr>
  <tr>
     <td>
+     
      ![bkiprono's Stats](https://github-readme-stats.vercel.app/api?username=bkiprono&theme=shadow_blue&show_icons=true&hide_border=false&count_private=true)
+     
      </td>
     <td>
+    
     ![bkiprono's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bkiprono&theme=shadow_blue&hide_border=false&count_private=true) 
+    
     </td>
  </tr>
 </table>
