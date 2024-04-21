@@ -10,26 +10,10 @@ In my pursuit of excellence, I stay abreast of the latest developments in techno
 <p>
 With a blend of technical expertise, creative thinking, and a relentless drive for excellence, I am committed to delivering solutions that not only solve problems but also inspire and empower others to reach new heights in the digital realm.</p>
 </p>
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>
-     
-     ![bkiprono's Stats](https://github-readme-stats.vercel.app/api?username=bkiprono&theme=shadow_blue&show_icons=true&hide_border=false&count_private=true)
-     
-     </td>
-    <td>
-    
-    ![bkiprono's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bkiprono&theme=shadow_blue&hide_border=false&count_private=true) 
-    
-    </td>
- </tr>
-</table>
 
 
+![bkiprono's Stats](https://github-readme-stats.vercel.app/api?username=bkiprono&theme=shadow_blue&show_icons=true&hide_border=false&count_private=true)
+![bkiprono's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bkiprono&theme=shadow_blue&hide_border=false&count_private=true) 
 
 
 <h3 align="left">Connect with me:</h3>
