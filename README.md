@@ -13,7 +13,7 @@ With a blend of technical expertise, creative thinking, and a relentless drive f
 
 
 ![bkiprono's Stats](https://github-readme-stats.vercel.app/api?username=bkiprono&theme=shadow_blue&show_icons=true&hide_border=false&count_private=true)
-![bkiprono's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bkiprono&theme=shadow_blue&hide_border=false&count_private=true) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=bkiprono)](https://git.io/streak-stats)
 
 
 <h3 align="left">Connect with me:</h3>
