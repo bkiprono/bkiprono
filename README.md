@@ -12,9 +12,11 @@ With a blend of technical expertise, creative thinking, and a relentless drive f
 </p>
 
 
-![bkiprono's Stats](https://github-readme-stats.vercel.app/api?username=bkiprono&theme=shadow_blue&show_icons=true&hide_border=false&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=bkiprono)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bkiprono" alt="GitHub Streak" /></a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bkiprono&show_icons=true&locale=en" alt="bkiprono" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bkiprono&" alt="bkiprono" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bkiprono&show_icons=true&locale=en&layout=compact" alt="bkiprono" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bkiprono" alt="bkiprono" /></a></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
